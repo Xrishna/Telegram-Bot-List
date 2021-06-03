@@ -25,3 +25,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Image Editor Bots 
 
 - [FnImageEditBot](https://telegram.me/FnImageEditBot)
+
+## Video Extractor Bots 
+
+- [FnExtractBot](https://telegram.me/FnExtractBot)
