@@ -33,3 +33,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Store Bots
 
 - [FnTelegramStoreBot](https://telegram.me/FnCountryInfoBot)
+
+## Attach Bots
+
+[FnAttachBot](https://telegram.me/FnAttachBot)
