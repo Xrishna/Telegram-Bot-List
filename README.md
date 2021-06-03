@@ -2,6 +2,9 @@
 
 A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNoushad)
 
+- Please add your [pull request](https://github.com/FayasNoushad/Telegram-Bot-List/pulls) for adding bots
+- Please suggest or report bots in [issues](https://github.com/FayasNoushad/Telegram-Bot-List/issues)
+- Please follow [FayasNoushad](https://github.com/FayasNoushad)
 ---
 
 ## Converter Bots
