@@ -5,3 +5,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Converter Bots
 
 - [FnConvertBot](https://telegram.me/FnConvertBot)
+
+## Rename Bots
+
+- [FnRenameBot](https://telegram.me/FnRenameBot)
