@@ -13,3 +13,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## URL Uploaders
 
 - [FnURLUploadBot](https://telegram.me/FnURLUploadBot)
+
+## QR Code Bots
+
+- [FnQRCodeBot](https://telegram.me/FnQRCodeBot)
