@@ -29,3 +29,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Video Extractor Bots 
 
 - [FnExtractBot](https://telegram.me/FnExtractBot)
+
+## Store Bots
+
+- [FnTelegramStoreBot](https://telegram.me/FnCountryInfoBot)
