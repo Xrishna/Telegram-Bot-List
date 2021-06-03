@@ -1,3 +1,3 @@
 # Telegram-Bot-List
 
-A telegram bot list collection by @FayasNoushad
+A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNoushad)
