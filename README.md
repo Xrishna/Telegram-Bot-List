@@ -17,3 +17,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## QR Code Bots
 
 - [FnQRCodeBot](https://telegram.me/FnQRCodeBot)
+
+## Telegraph Uploaders
+
+- [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
