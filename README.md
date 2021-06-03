@@ -21,3 +21,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Telegraph Uploaders
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
+
+## Image Editor Bots 
+
+- [FnImageEditBot](https://telegram.me/FnImageEditBot)
