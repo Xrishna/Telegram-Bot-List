@@ -36,6 +36,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Telegraph Uploaders
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
+- [BHTelegraphBot](https://telegram.dog/BHTelegraphBot)
 
 ---
 
