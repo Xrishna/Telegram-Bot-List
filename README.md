@@ -8,6 +8,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - Please follow [FayasNoushad](https://github.com/FayasNoushad)
 
 ---
+![](https://visitor-badge.glitch.me/badge?page_id=FayasNoushad/Telegram-Bot-List)
 
 ## Converter Bots
 
