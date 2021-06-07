@@ -19,6 +19,8 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnRenameBot](https://telegram.me/FnRenameBot)
 - [Renamer_ProBot](https://t.ME/Renamer_ProBot)
+- [MwK Rename + Coverter Bot v1](https://t.me/mwk_renamebot)
+- [Rename / Conversion Bot V2](https://t.me/mwk_rename2bot)
 ---
 
 ## URL Uploaders
@@ -91,6 +93,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## YouTube Bot
 
 - [YouTubeDL_V2Bot](https://t.me/YouTubeDL_V2Bot)
+- [MwK YouTube Downloader #V1](https://t.me/mwk_youtubebot)
 
 ---
 
@@ -103,3 +106,9 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Song Bot
 
 - [Song_Downloader_RoBot](https://t.me/Song_Downloader_RoBot)
+
+---
+
+## Force Sub Bot
+
+- [MwK Force Promoter Malayalam](https://t.me/mwk_promoterbot)
