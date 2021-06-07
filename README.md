@@ -99,3 +99,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [SessionStringGenBot](https://t.me/SessionStringGenBoT)
 
 ---
+
+## Song Bot
+
+- [Song_Downloader_RoBot][https://t.me/Song_Downloader_RoBot)
