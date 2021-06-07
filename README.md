@@ -53,7 +53,8 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## Store Bots
 
-- [FnTelegramStoreBot](https://telegram.me/FnCountryInfoBot)
+- [FnTelegramStoreBot](https://telegram.me/FnTelegramStoreBot)
+- [StoracheBot](https://telegram.me/StoracheBot)
 
 ---
 
