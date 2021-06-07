@@ -9,66 +9,92 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ---
 
-## Converter Bots
+### Converter Bots
 
 - [FnConvertBot](https://telegram.me/FnConvertBot)
-
+- [Converter_ProBot](https://t.me/Converter_ProBot)
 ---
 
-## Rename Bots
+### Rename Bots
 
 - [FnRenameBot](https://telegram.me/FnRenameBot)
-
+- [Renamer_ProBot](https://t.ME/Renamer_ProBot)
 ---
 
-## URL Uploaders
+### URL Uploaders
 
 - [FnURLUploadBot](https://telegram.me/FnURLUploadBot)
-
+- [UrlUploader_XBot](https://t.me/UrlUploader_XBot)
 ---
 
-## QR Code Bots
+### QR Code Bots
 
 - [FnQRCodeBot](https://telegram.me/FnQRCodeBot)
 
 ---
 
-## Telegraph Uploaders
+### Telegraph Uploaders
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
 
 ---
 
-## Image Editor Bots 
+### Image Editor Bots 
 
 - [FnImageEditBot](https://telegram.me/FnImageEditBot)
 
 ---
 
-## Video Extractor Bots 
+### Video Extractor Bots 
 
 - [FnExtractBot](https://telegram.me/FnExtractBot)
 
 ---
 
-## Store Bots
+### Store Bots
 
 - [FnTelegramStoreBot](https://telegram.me/FnCountryInfoBot)
 
 ---
 
-## Attach Bots
+### Attach Bots
 
 - [FnAttachBot](https://telegram.me/FnAttachBot)
 
 ---
 
-## Country Info Bots
+### Country Info Bots
 
 - [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot)
 
 ---
 
-## AI Bots
+### AI Bots
 
 - [Erza](https://telegram.me/ErzaChat_bot)
+
+---
+
+### Video Compress Bot
+
+- [VideoCompressProBot](https://t.me/VideoCompressProBot)
+
+---
+
+### Zee5 Bots
+
+- [Zee5_DownloaderBot](https://t.ME/Zee5_DownloaderBot)
+
+---
+
+### YouTube Bot
+
+- [YouTubeDL_V2Bot](https://t.me/YouTubeDL_V2Bot)
+
+---
+
+### Session String Bot
+
+- [SessionStringGenBot](https://t.me/SessionStringGenBoT)
+
+---
