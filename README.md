@@ -112,3 +112,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Force Sub Bot
 
 - [MwK Force Promoter Malayalam](https://t.me/mwk_promoterbot)
+
+## MHT-CET STUDY MATERIAL BOT FOR MH BIARD STUDENTS
+- [MHT-CET STUDY MATERIAL BOT ](https://t.me/MhtCetMaterialsBot)
+---
